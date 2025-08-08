@@ -81,8 +81,3 @@ pip install pandas numpy matplotlib seaborn scikit-learn tensorflow
 
 - Inspired by open-source work on sentiment analysis and NLP with Keras/TensorFlow.
 - Dataset and task adapted for educational/demo purposes.
-
----
-
-**Author**: [Your Name or GitHub handle]  
-**License**: MIT (if desired)
